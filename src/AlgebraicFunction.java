@@ -1,0 +1,1 @@
+abstract class AlgebraicFunction extends Function {}
